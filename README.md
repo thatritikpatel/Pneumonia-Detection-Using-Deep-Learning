@@ -126,7 +126,7 @@ The project employs the VGG19 architecture with modifications:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pneumonia-detection.git
+   git clone https://github.com/thatritikpatel/Pneumonia-Detection-Using-Deep-Learning.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -190,3 +190,7 @@ This project is licensed under the CC BY 4.0 License. See the [LICENSE](LICENSE)
 
 ## Acknowledgements
 Special thanks to the creators of the dataset and the research team for their valuable contributions to pneumonia detection.
+
+## Contact
+- Ritik Patel - [ritik.patel129@gmail.com]
+- Project Link: [https://github.com/thatritikpatel/Pneumonia-Detection-Using-Deep-Learning]
