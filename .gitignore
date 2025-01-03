@@ -1,3 +1,8 @@
+/env_Pneumonia_Detection
+/model_weights
+/uploads
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
