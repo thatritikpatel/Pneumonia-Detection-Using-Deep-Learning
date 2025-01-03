@@ -5,6 +5,14 @@ This project leverages deep learning to detect pneumonia from chest X-ray images
 
 ---
 
+## Video Demo
+
+Here's a video demo of the project:
+
+https://github.com/user-attachments/assets/7db7732e-b604-4c29-9aa5-0d62a7017ae6
+
+---
+
 ## Features
 - Utilizes transfer learning with the VGG19 model for efficient feature extraction.
 - Employs advanced data augmentation techniques for robust model training.
