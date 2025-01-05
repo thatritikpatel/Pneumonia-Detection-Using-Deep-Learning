@@ -192,5 +192,6 @@ This project is licensed under the CC BY 4.0 License. See the [LICENSE](LICENSE)
 Special thanks to the creators of the dataset and the research team for their valuable contributions to pneumonia detection.
 
 ## Contact
-- Ritik Patel - [ritik.patel129@gmail.com]
+- Ritik Patel - [https://www.linkedin.com/in/thatritikpatel/]
+
 - Project Link: [https://github.com/thatritikpatel/Pneumonia-Detection-Using-Deep-Learning]
